@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<products>
+  <product>
+    <category-id>10388</category-id>
+    <category-name><![CDATA[Dog leashes, collars, harnesses]]></category-name>
+    <title><![CDATA[Antkaklis Šuniui, Pilkas]]></title>
+    <title-ru><![CDATA[Ошейник Для Собаки, Серый]]></title-ru>
+    <title-lv><![CDATA[Suņa Kaklasiksna, Pelēka]]></title-lv>
+    <title-ee><![CDATA[Koera Kaelarihm, Hall]]></title-ee>
+    <title-fi><![CDATA[Koiran Kaulus, Harmaa]]></title-fi>
+    <long-description><![CDATA["Veterinarijos Rekomenduojama Aukščiausios Kokybės Apsauga Nuo Blusų Ir Erkių Šunims Ir Šuniukams Be Kainos Etiketės.
+
+Ilgalaikis Blusų Antkaklis Naikina Ir Atbaido Blusas 8 Mėnesius Iš Eilės.
+
+Pradeda Veikti Per 24 Valandas, Kad Užmuštų Ir Atbaidytų Kontakto Metu Esančias Blusas, Kad Kenkėjams Nereikėtų Įkandinėti Jūsų Šuns, Kad Numirtų.
+
+Be Vargo, Neriebus, Paprasta Naudoti Apsauga Nuo Blusų Ir Erkių."]]></long-description>
+    <long-description-ru><![CDATA["Рекомендовано Ветеринаром, Премиум-Защита От Блох И Клещей Для Собак И Щенков Без Ценника.
+
+Долговечный Ошейник От Блох Убивает И Отпугивает Блох В Течение 8 Месяцев Подряд.
+
+Начинает Действовать В Течение 24 Часов, Убивая И Отпугивая Блох При Контакте, Поэтому Вредителям Не Придется Кусать Вашу Собаку, Чтобы Умереть.
+
+Беспроблемная, Нежирная, Простая В Использовании Защита От Блох И Клещей."]]></long-description-ru>
+    <long-description-lv><![CDATA["Veterinārārsta Ieteikta Augstākās Kvalitātes Aizsardzība Pret Blusām Un Ērcēm Suņiem Un Kucēniem Bez Cenas Zīmes.
+
+Ilgstoša Blusu Apkakle Nogalina Un Atbaida Blusas 8 Mēnešus Pēc Kārtas.
+
+Sāk Darboties 24 Stundu Laikā, Lai Iznīcinātu Un Atbaidītu Blusas Saskarē, Lai Kaitēkļiem Nebūtu Jākož Jūsu Suns, Lai Tas Nomirtu.
+
+Bezproblēmas, Netaukaina, Viegli Lietojama Aizsardzība Pret Blusām Un Ērcēm."]]></long-description-lv>
+    <long-description-ee><![CDATA["Loomaarsti Soovitatud Esmaklassiline Kirbu- Ja Puugikaitse Koertele Ja Kutsikatele Ilma Hinnasildita.
+
+Kauakestev Kirbukaelarihm Tapab Ja Tõrjub Kirbud 8 Kuud Järjest.
+
+Alustab Tööd 24 Tunni Jooksul, Et Tappa Ja Tõrjuda Kokkupuutel Kirbud, Et Kahjurid Ei Peaks Teie Koera Suremiseks Hammustama.
+
+Probleemideta, Mitterasvane, Lihtsalt Kasutatav Kirbu- Ja Puugikaitse."]]></long-description-ee>
+    <long-description-fi><![CDATA["Eläinlääkärin Suosittelema Ensiluokkainen Kirppu- Ja Punkkisuoja Koirille Ja Pennuille Ilman Hintalappua.
+
+Pitkäkestoinen Kirppupanta Tappaa Ja Karkottaa Kirput 8 Peräkkäisen Kuukauden Ajan.
+
+Alkaa Toimimaan 24 Tunnin Kuluessa Tappaakseen Ja Karkottaakseen Kirppuja Kosketuksessa, Jotta Tuholaisten Ei Tarvitse Purra Koiraasi Kuollakseen.
+
+Vaivaton, Rasvaton, Helppokäyttöinen Kirppu- Ja Punkkisuoja."]]></long-description-fi>
+    <video-youtube></video-youtube>
+    <properties>
+      <property>
+        <id><![CDATA[]]></id>
+        <values>
+          <value><![CDATA[]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <colour-title/>
+        <images>
+          <image>
+            <url>https://img.fruugo.com/product/6/05/1742463056_max.jpg</url>
+          </image>
+          <image>
+            <url>https://img.fruugo.com/product/8/03/1742463038_max.jpg</url>
+          </image>
+          <image>
+            <url>https://img.fruugo.com/product/1/04/1742463041_max.jpg</url>
+          </image>
+          <image>
+            <url>https://img.fruugo.com/product/2/03/1742463032_max.jpg</url>
+          </image>
+          <image>
+            <url>https://img.fruugo.com/product/9/04/1742463049_max.jpg</url>
+          </image>
+        </images>
+        <modifications>
+          <modification>
+            <modification-title/>
+            <weight>0.2</weight>
+            <length>0.15</length>
+            <height>0.15</height>
+            <width>0.05</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[6325606411192]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[LTX20250410]]></supplier-code>
+              <manufacturer-code><![CDATA[LTX20250410]]></manufacturer-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+</products>

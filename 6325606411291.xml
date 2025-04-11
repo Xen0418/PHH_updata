@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<products>
+  <product>
+    <category-id>4757</category-id>
+    <category-name><![CDATA[Flashlight]]></category-name>
+    <title><![CDATA[Lazerinis Žibintuvėlis, Juodas]]></title>
+    <title-ru><![CDATA[Лазерный Фонарик, Черный.]]></title-ru>
+    <title-lv><![CDATA[Lāzera Lukturītis, Melns]]></title-lv>
+    <title-ee><![CDATA[Lasertaskulamp, Must]]></title-ee>
+    <title-fi><![CDATA[Laser Taskulamppu, Musta]]></title-fi>
+    <long-description><![CDATA[Lengva Įkrauti: Su Usb Įkrovimo Laidu Ultra Long Range: Aukštos Kokybės Nešiojamas, Kad Galėtumėte Dirbti Ar Žaisti Bet Kada Ir Bet Kur. Lengva Reguliuoti: Lengva Reguliuoti Sijos Storį. Dėvėkite Dangtelį, Kad Sureguliuotumėte Sijos Formą Su Įvairiais Raštais. Puikiai Nešiojamas, Pakankamai Mažas, Kad Tilptų Kišenėje, Rankinėje, Stalčiuje Ar Skyrelyje. Idealiai Tinka Stovyklavimui, Žygiams, Medžioklei Ir Avarinei Situacijai. Ne Vaikams.]]></long-description>
+    <long-description-ru><![CDATA[Легко Заряжать: С Помощью Usb-Кабеля Для Зарядки. Сверхдальний Радиус Действия: Высококачественный Портативный Компьютер Для Работы Или Игр В Любое Время И В Любом Месте. Легко Регулировать: Легко Регулировать Толщину Балки. Наденьте Кепку, Чтобы Скорректировать Форму Пучка, С Разнообразными Узорами. Идеально Портативный, Достаточно Маленький, Чтобы Поместиться В Кармане, Сумочке, Ящике Или Отделении. Идеально Подходит Для Кемпинга, Пеших Прогулок, Охоты И Экстренных Ситуаций. Не Для Детей.]]></long-description-ru>
+    <long-description-lv><![CDATA[Viegli Uzlādējams: Ar Usb Uzlādes Kabeli Ultra Long Range: Augstas Kvalitātes Pārnēsājams Darbam Vai Spēlēšanai Jebkurā Laikā Un Vietā. Viegli Regulējams: Viegli Regulēt Sijas Biezumu. Valkājiet Vāciņu, Lai Pielāgotu Sijas Formu Ar Dažādiem Rakstiem. Lieliski Pārnēsājams, Pietiekami Mazs, Lai Ietilptu Kabatā, Rokassomiņā, Atvilktnē Vai Nodalījumā. Ideāli Piemērots Kempingiem, Pārgājieniem, Medībām Un Ārkārtas Situācijām. Ne Bērniem.]]></long-description-lv>
+    <long-description-ee><![CDATA[Lihtne Laadida: Usb-Laadimiskaabliga Ultra Long Range: Kvaliteetne Kaasaskantav Töötamiseks Või Mängimiseks Igal Ajal Ja Igal Pool. Lihtne Reguleerida: Lihtne Reguleerida Tala Paksust. Tala Kuju Reguleerimiseks Kandke Mitmesuguste Mustritega Korki. Täiuslikult Kaasaskantav, Piisavalt Väike, Et Mahutada Taskusse, Käekotti, Sahtlisse Või Sahtlisse. Ideaalne Telkimiseks, Matkamiseks, Jahiks Ja Hädaolukorras. Mitte Lastele.]]></long-description-ee>
+    <long-description-fi><![CDATA[Helppo Ladata: Usb-Latauskaapelilla Ultra Long Range: Korkealaatuinen Kannettava Työhön Tai Pelaamiseen Missä Ja Milloin Tahansa. Helppo Säätää: Helppo Säätää Palkin Paksuutta. Käytä Korkkia Säädäksesi Palkin Muotoa Erilaisilla Kuvioilla. Täydellisesti Kannettava, Tarpeeksi Pieni Mahtumaan Taskuun, Käsilaukkuun, Laatikkoon Tai Lokeroon. Ihanteellinen Retkeilyyn, Retkeilyyn, Metsästykseen Ja Hätätilanteisiin. Ei Lapsille.]]></long-description-fi>
+    <video-youtube></video-youtube>
+    <properties>
+      <property>
+        <id><![CDATA[]]></id>
+        <values>
+          <value><![CDATA[]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <colour-title/>
+        <images>
+          <image>
+            <url>https://img.fruugo.com/product/8/88/1850511888_max.jpg</url>
+          </image>
+          <image>
+            <url>https://img.fruugo.com/product/9/93/1850511939_max.jpg</url>
+          </image>
+          <image>
+            <url>https://img.fruugo.com/product/4/91/1850511914_max.jpg</url>
+          </image>
+          <image>
+            <url>https://img.fruugo.com/product/2/05/1850512052_max.jpg</url>
+          </image>
+          <image>
+            <url>https://img.fruugo.com/product/8/99/1850511998_max.jpg</url>
+          </image>
+        </images>
+        <modifications>
+          <modification>
+            <modification-title/>
+            <weight>0.3</weight>
+            <length>0.17</length>
+            <height>0.035</height>
+            <width>0.035</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[6325606411291]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[LTX20250411]]></supplier-code>
+              <manufacturer-code><![CDATA[LTX20250411]]></manufacturer-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+</products>

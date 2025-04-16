@@ -2429,7 +2429,7 @@ Kiitos Yhteistyöstä Ja Toivotan Tyytyväisyyttä."]]></long-description-fi>
         <modifications>
           <modification>
             <modification-title/>
-            <weight>0.3<weight/>
+            <weight>0.3</weight>
             <length>0.1</length>
             <height>0.05</height>
             <width>0.025</width>
@@ -5508,7 +5508,7 @@ Paketti Sisältää:
         <modifications>
           <modification>
             <modification-title/>
-            <weight>0.35<weight/>
+            <weight>0.35</weight>
             <length>0.275</length>
             <height>0.075</height>
             <width>0.075</width>

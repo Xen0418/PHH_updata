@@ -5508,7 +5508,7 @@ Paketti Sisältää:
         <modifications>
           <modification>
             <modification-title/>
-            <weight/>
+            <weight>0.35<weight/>
             <length>0.275</length>
             <height>0.075</height>
             <width>0.075</width>

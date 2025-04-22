@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<products>
+  <product>
+    <category-id>527</category-id>
+    <category-name><![CDATA[Hair shaping and straightening devices]]></category-name>
+    <title><![CDATA[Garbanojimo Lygintuvas, 1 Vnt]]></title>
+    <title-ru><![CDATA[Щипцы Для Завивки, 1 Шт.]]></title-ru>
+    <title-lv><![CDATA[Lokšķēres, 1 Gab]]></title-lv>
+    <title-ee><![CDATA[Lokitangid, 1 Tk]]></title-ee>
+    <title-fi><![CDATA[Kiharrata, 1 Kpl]]></title-fi>
+    <long-description><![CDATA[Elektrinis Tiesinimo Lygintuvas Plaukams Tiesinti, Plaukų Tiesintuvas Ilgalaikiam Plaukų Tiesinimui, Kukurūzų Garbanojimo Geležis, Siaurų Plaukų Tiesinimo Geležis, Plaukų Šaknų Tiesinimo Geležis]]></long-description>
+    <long-description-ru><![CDATA[Электрический Утюжок Для Выпрямления Волос, Выпрямитель Для Химической Завивки Волос, Щипцы Для Завивки Кукурузы, Щипцы Для Выпрямления Узких Волос, Утюжок Для Выпрямления Корней Волос]]></long-description-ru>
+    <long-description-lv><![CDATA[Elektriskais Gludeklis Matu Taisnošanai, Matu Taisnotājs Ilgviļņiem, Kukurūzas Lokšķēres, Šauro Matu Taisnotājs, Matu Sakņu Taisnošanas Gludeklis]]></long-description-lv>
+    <long-description-ee><![CDATA[Elektriline Sirgendaja Juuste Sirgendamiseks, Juuste Sirgendaja Püsiku Tegemiseks, Lokirull, Kitsas Juuksesirgendusraud, Juuksejuure Sirgendaja]]></long-description-ee>
+    <long-description-fi><![CDATA[Sähköinen Suoristusrauta Hiusten Suoristukseen, Suoristusrauta Permingiin, Maissikiharrusrauta, Kapea Suoristusrauta, Hiustenjuuren Suoristusrauta]]></long-description-fi>
+    <video-youtube></video-youtube>
+    <properties>
+      <property>
+        <id><![CDATA[]]></id>
+        <values>
+          <value><![CDATA[]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <colour-title/>
+        <images>
+          <image>
+            <url>https://cbu01.alicdn.com/img/ibank/O1CN01lcH3Qt1hfHhh5Qm6M_!!965994304-0-cib.jpg</url>
+          </image>
+        </images>
+        <modifications>
+          <modification>
+            <modification-title/>
+            <weight>0.69</weight>
+            <length>0.34</length>
+            <height>0.1</height>
+            <width>0.07</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[6325606414636]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[LTX20250422]]></supplier-code>
+              <manufacturer-code><![CDATA[LTX20250422]]></manufacturer-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+</products>

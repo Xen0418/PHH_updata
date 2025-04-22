@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<products>
+  <product>
+    <category-id>527</category-id>
+    <category-name><![CDATA[Hair shaping and straightening devices]]></category-name>
+    <title><![CDATA[Garbanojimo Geležis, 1 Vnt]]></title>
+    <title-ru><![CDATA[Щипцы Для Завивки, 1 Шт.]]></title-ru>
+    <title-lv><![CDATA[Lokšķēres, 1 Gab]]></title-lv>
+    <title-ee><![CDATA[Lokirullid, 1 Tk]]></title-ee>
+    <title-fi><![CDATA[Kiharrata, 1 Kpl]]></title-fi>
+    <long-description><![CDATA[Garbanojimo Ir Tiesinimo Dvigubos Paskirties Garbanojimo Geležis, Plokštelinis Segtukas Apsaugo Plaukus Nepažeisdamas Plaukų, Tiesinimo Plokštelė]]></long-description>
+    <long-description-ru><![CDATA[Щипцы Для Завивки И Выпрямления Двойного Назначения, Пластинчатый Зажим Защищает Волосы, Не Повреждая Волосы, Выпрямляющая Пластина]]></long-description-ru>
+    <long-description-lv><![CDATA[Kērlinga Un Taisnošanas Divējāda Pielietojuma Lokšķēres, Plākšņu Klipsis Aizsargā Matus, Nesabojājot Matus, Iztaisnošanas Plāksne]]></long-description-lv>
+    <long-description-ee><![CDATA[Kahe Otstarbega Lokirull Ja Sirgendamine, Plaatklamber Kaitseb Juukseid Juukseid Kahjustamata, Sirgendusplaat]]></long-description-ee>
+    <long-description-fi><![CDATA[Kiharrin Ja Suoristuksen Kaksikäyttöinen Kiharrin, Levyklipsi Suojaa Hiuksia Vahingoittamatta Hiuksia, Suoristuslevy]]></long-description-fi>
+    <video-youtube></video-youtube>
+    <properties>
+      <property>
+        <id><![CDATA[]]></id>
+        <values>
+          <value><![CDATA[]]></value>
+        </values>
+      </property>
+    </properties>
+    <colours>
+      <colour>
+        <colour-title/>
+        <images>
+          <image>
+            <url>https://cbu01.alicdn.com/img/ibank/O1CN01QPfIGp1PPZ26io7Kg_!!2219445761833-0-cib.jpg</url>
+          </image>
+        </images>
+        <modifications>
+          <modification>
+            <modification-title/>
+            <weight>0.408</weight>
+            <length>0.34</length>
+            <height>0.096</height>
+            <width>0.055</width>
+            <attributes>
+              <barcodes>
+                <barcode><![CDATA[6325606414544]]></barcode>
+              </barcodes>
+              <supplier-code><![CDATA[LTX20250422]]></supplier-code>
+              <manufacturer-code><![CDATA[LTX20250422]]></manufacturer-code>
+            </attributes>
+          </modification>
+        </modifications>
+      </colour>
+    </colours>
+  </product>
+</products>
